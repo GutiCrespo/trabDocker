@@ -14,4 +14,4 @@ services:
       MYSQL_ROOT_PASSWORD: 1234
       MYSQL_DATABASE: docker
     ports:
-      - "3306:3306"
+      - "3307:3306"
